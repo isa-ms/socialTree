@@ -1,7 +1,7 @@
 body * {
   margin: 0;
   padding: 0;
-  box-sizing: 0;
+  box-sizing: border-box;
 }
 .roots {
   --text-color: white;
@@ -87,8 +87,8 @@ body * {
 }
 
 #switch button:hover {
-  border: 6px solid rgba(0, 0, 0, 0.1);
-  transition: border 0.2s;
+  outline: 8px solid var(--highlight-color);
+  transition: outline 0.2s;
 }
 
 #switch span {
@@ -121,6 +121,7 @@ ul li a {
   border: 1px solid var(--stroke-color);
   border-radius: 8px;
   backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
 
   display: flex;
   align-items: center;
