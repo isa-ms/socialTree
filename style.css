@@ -12,7 +12,7 @@
   --highlight-color: rgba(255, 255, 255, 0.2);
   --switch-bg-url: url(./assets/moon-stars.svg);
 }
-.ligth {
+.light {
   --text-color: black;
   --bg-url: url(./assets/bg-mobile-ligth.jpg);
   --stroke-color: rgba(0, 0, 0, 0.5);
@@ -105,7 +105,7 @@ body * {
   border-radius: 9999px;
 }
 
-.ligth #switch button {
+.light #switch button {
   animation: slide-in 0.4s forwards;
 }
 
@@ -170,7 +170,7 @@ footer {
   :root {
     --bg-url: url(./assets/bg-desktop.jpg);
   }
-  .ligth {
+  .light {
     --bg-url: url(./assets/bg-desktop-light.jpg);
   }
 }
