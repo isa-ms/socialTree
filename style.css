@@ -1,9 +1,9 @@
-body * {
+* {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
-.roots {
+:root {
   --text-color: white;
   --bg-url: url(./assets/bg-mobile.jpg);
   --stroke-color: rgba(255, 255, 255, 0.5);
@@ -53,7 +53,7 @@ body * {
 }
 #profile img {
   width: 112px;
-  height: 112px;
+  /* height: 112px; */
   /*display: block;
   margin: auto;   alternativa para centralizar*/
 }
