@@ -115,7 +115,17 @@ ul {
   display: flex;
   flex-direction: column;
   gap: 16px;
-  padding: 24px;
+  padding: 24px;;
+}
+
+ul p {
+  /* border: 1px solid red; */
+  display: flex;
+  justify-content: center;
+  font-weight: 500;
+}
+#h1{
+  margin-bottom: 16px;
 }
 
 ul li a {
