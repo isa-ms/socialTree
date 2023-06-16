@@ -120,8 +120,7 @@ ul {
 
 ul p {
   /* border: 1px solid red; */
-  display: flex;
-  justify-content: center;
+  text-align: center;
   font-weight: 500;
 }
 #h1{
