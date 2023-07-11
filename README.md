@@ -1,7 +1,7 @@
 <h1 align="center"> SocialTree </h1>
 
 <p align="center">
-Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
+Desenvolvido com base no programa promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
 </p>
 
 <p align="center">
@@ -32,8 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O SocialTree é um agregador de links para usar como cartão de visitas online.
-- [Acesse o projeto finalizado, online](https://isa-ms.github.io/socialTree/)
+O Social Tree é um agregador de links para usar como cartão de visitas online.
 
 
 ## 🔖 Layout
@@ -46,4 +45,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito by Isa-ms  [Participe da comunidade Rocketseat!](https://discord.gg/rocketseat)
+Feito by Isa-ms 
